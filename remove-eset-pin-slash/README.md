@@ -1,4 +1,4 @@
-# Remove Reset Forward Slash
+# Remove Reset Pin Slash
 
 Remove the forward slash icon after the reset pin button.
 
